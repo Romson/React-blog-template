@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App].
 ### `React Blog template`
 A nice and clean blog template free to use. Styling done with React Bootstrap.
 
