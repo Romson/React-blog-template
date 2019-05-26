@@ -5,10 +5,13 @@ A nice and clean blog template free to use. Styling done with React Bootstrap.
 ### `Dependencies used`
 
 ```
-npm i react-router-dom 
-npm i react-bootstrap bootstrap
-npm i node-sass
-npm i sass-loader
+"node-sass": "^4.12.0",
+ "react": "^16.8.6",
+ "react-bootstrap": "^1.0.0-beta.8",
+ "react-dom": "^16.8.6",
+ "react-router-dom": "^5.0.0",
+ "react-scripts": "3.0.1",
+ "sass-loader": "^7.1.0"
 ```
 
 
