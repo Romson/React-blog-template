@@ -1,0 +1,42 @@
+.navbar {
+    background-color: $navBgColor;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: $navColor;
+
+    &:hover {
+        color: $navLinkHover;
+    }
+}
+
+.logo {
+    width: $logoSize;
+}
+
+body {
+    padding-top: $padding100px;
+}
+
+.jumbo {
+    background-image: $bgImage;
+    background-repeat: $noRepeat;
+    background-attachment: $fixed;
+    background-position: $bottom;
+    background-size: $cover;
+    color: $color;
+    height: $heigth200;
+    position: $position;
+    z-index: $zIndexM2;
+}
+
+.overlay {
+    background-color: $black;
+    opacity: $opacity;
+    position: $absolute;
+    top: $zero;
+    left: $zero;
+    bottom: $zero;
+    right: $zero;
+    z-index: $zIndexM1;
+}
