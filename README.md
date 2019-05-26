@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App].
+This project was bootstrapped with React.
 ### `React Blog template`
 A nice and clean blog template free to use. Styling done with React Bootstrap.
 
